@@ -8,7 +8,7 @@ tags:
 - 近似计算
 ---
 
-# 2021.11.27���ķ���
+# 2021.11.27 论文分享
 胡锐论文分享《Multiplying Matrices Without Multiplying》一种基于机器学习的矩阵乘法近似计算方法。
 
 ![论文分享maddness](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness.jpg)
