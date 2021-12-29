@@ -1,12 +1,13 @@
 ---
-title: UpdateTest
+title: Update Test
+categories:
+- Foo
 tags:
+- Foo
+- Bar
+- Baz
 ---
-# This is a new post
 
-This is an emoji test. :smile: lol.
 
-See emoji cheat sheet for more detail :wink: : <https://www.webpagefx.com/tools/emoji-cheat-sheet/>.
-
-:bowtie::smile::laughing::blush::smiley::relaxed::smirk:
-:heart_eyes::kissing_heart::kissing_closed_eyes::flushed::relieved::satisfied::grin:
+# this is a new post
+This post contains 3 tags. Make sure your theme can display all of the tags.
