@@ -1,5 +1,5 @@
 ---
-title: Update Test
+title: 付雯论文分享《Adaptive Cross-Modal Few-shot Learning》
 categories:
 - Foo
 tags:
@@ -9,8 +9,8 @@ tags:
 ---
 
 
-# this is a new post
-This post contains 3 tags. Make sure your theme can display all of the tags.
+# 2021.12.18论文分享
+付雯《Adaptive Cross-Modal Few-shot Learning》，NeurIPS2019，文章提出一个自适应交叉混合的机制，针对将要被学习的图像类别，自适应地结合视觉和语义上的信息，大幅提升少样本场景下的分类任务性能。
 
 ![a45b2f44a8e9668bed713275f7d47132-01](https://s2.loli.net/2021/12/29/gOoqDQ6LsGbAwKB.jpg)
 
@@ -54,3 +54,6 @@ This post contains 3 tags. Make sure your theme can display all of the tags.
 
 ![a45b2f44a8e9668bed713275f7d47132-21](https://s2.loli.net/2021/12/29/p31uyenbNHoPfhx.jpg)
 
+![a45b2f44a8e9668bed713275f7d47132-22](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/a45b2f44a8e9668bed713275f7d47132-22.jpg)
+
+![a45b2f44a8e9668bed713275f7d47132-23](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/a45b2f44a8e9668bed713275f7d47132-23.jpg)
