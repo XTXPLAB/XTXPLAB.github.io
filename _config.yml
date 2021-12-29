@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: XTXPLAB
+title: NexT
 subtitle:
 description:
 author: John Doe
@@ -396,14 +396,14 @@ wildfire:
   version: 0.5.6 
   # database config
   databaseProvider: firebase # or wilddog
-  firebase: # your firebase config goes here â†?
+  firebase: # your firebase config goes here â†“
     apiKey: 
     authDomain:
     databaseURL:
     projectId:
     storageBucket:
     messagingSenderId:
-  wilddog: # your wilddog config goes here â†?
+  wilddog: # your wilddog config goes here â†“
     siteId:
   # other configs
   theme: light # or dark
