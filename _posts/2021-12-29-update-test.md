@@ -1,11 +1,11 @@
 ---
 title: 付雯论文分享《Adaptive Cross-Modal Few-shot Learning》
 categories:
-- Foo
+- 论文分享
 tags:
-- Foo
-- Bar
-- Baz
+- 论文分享
+- 深度学习
+- 小样本学习
 ---
 
 
