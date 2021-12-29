@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: X
 subtitle:
 description:
-author: John Doe
+author: Douba
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -396,14 +396,14 @@ wildfire:
   version: 0.5.6 
   # database config
   databaseProvider: firebase # or wilddog
-  firebase: # your firebase config goes here â†“
+  firebase: # your firebase config goes here â†?
     apiKey: 
     authDomain:
     databaseURL:
     projectId:
     storageBucket:
     messagingSenderId:
-  wilddog: # your wilddog config goes here â†“
+  wilddog: # your wilddog config goes here â†?
     siteId:
   # other configs
   theme: light # or dark
