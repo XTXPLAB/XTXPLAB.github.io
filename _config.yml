@@ -1,13 +1,44 @@
+Skip to content
+Search or jump to¡­
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@XTXPLAB 
+Simpleyyt
+/
+jekyll-theme-next
+Public
+Code
+Issues
+31
+Pull requests
+13
+Actions
+Projects
+Wiki
+Security
+Insights
+jekyll-theme-next/_config.yml
+
+Kang Cheng feat: add wildfire comment plug-in support
+Latest commit f304f30 on 24 Aug 2018
+ History
+ 3 contributors
+@Simpleyyt@pwyq@duzhen
+738 lines (587 sloc)  17.2 KB
+  
 # ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
 # Site
-title: XTXPLABHomepage
+title: NexT
 subtitle:
 description:
-author: douba
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -119,7 +150,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  about: /about/
+  #about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -396,14 +427,14 @@ wildfire:
   version: 0.5.6 
   # database config
   databaseProvider: firebase # or wilddog
-  firebase: # your firebase config goes here â†?
+  firebase: # your firebase config goes here ¡ý
     apiKey: 
     authDomain:
     databaseURL:
     projectId:
     storageBucket:
     messagingSenderId:
-  wilddog: # your wilddog config goes here â†?
+  wilddog: # your wilddog config goes here ¡ý
     siteId:
   # other configs
   theme: light # or dark
@@ -736,3 +767,16 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+? 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
