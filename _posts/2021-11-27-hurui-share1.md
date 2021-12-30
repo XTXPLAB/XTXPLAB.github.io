@@ -17,6 +17,8 @@ tags:
 
 ![论文分享maddness-2](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-2.jpg)
 
+## 论文背景
+
 ![论文分享maddness-3](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-3.jpg)
 
 ![论文分享maddness-4](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-4.jpg)
@@ -24,6 +26,8 @@ tags:
 ![论文分享maddness-5](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-5.jpg)
 
 ![论文分享maddness-6](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-6.jpg)
+
+## 相关方法
 
 ![论文分享maddness-7](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-7.jpg)
 
@@ -36,6 +40,8 @@ tags:
 ![论文分享maddness-11](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-11.jpg)
 
 ![论文分享maddness-12](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-12.jpg)
+
+## 创新点
 
 ![论文分享maddness-13](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-13.jpg)
 
@@ -50,6 +56,8 @@ tags:
 ![论文分享maddness-18](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-18.jpg)
 
 ![论文分享maddness-19](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-19.jpg)
+
+## 结果分析
 
 ![论文分享maddness-20](https://raw.githubusercontent.com/XTXPLAB/XTXPLAB.github.io/main/imgs/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%ABmaddness-20.jpg)
 
