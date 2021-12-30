@@ -12,6 +12,8 @@ tags:
 # 2021.12.18论文分享
 付雯《Adaptive Cross-Modal Few-shot Learning》，NeurIPS2019，文章提出一个自适应交叉混合的机制，针对将要被学习的图像类别，自适应地结合视觉和语义上的信息，大幅提升少样本场景下的分类任务性能。
 
+论文原文：[https://arxiv.org/abs/1902.07104](https://arxiv.org/abs/1902.07104)
+
 ![a45b2f44a8e9668bed713275f7d47132-01](https://s2.loli.net/2021/12/29/gOoqDQ6LsGbAwKB.jpg)
 
 ![a45b2f44a8e9668bed713275f7d47132-02](https://s2.loli.net/2021/12/29/wePuIbJ6OlNpMva.jpg)
