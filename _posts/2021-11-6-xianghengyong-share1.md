@@ -1,5 +1,5 @@
 ---
-title: 相恒永《LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping》
+title: 相恒永《LVI-SAM： Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping》
 categories:
 - 论文分享
 tags:
